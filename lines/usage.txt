@@ -1,0 +1,1 @@
+python lines.py <picture_1> <picture_2> [<output_location>]
